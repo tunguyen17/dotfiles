@@ -1,5 +1,8 @@
 set autoindent
 
+" Syntax highliting
+syntax on
+
 set textwidth=80
 
 " vim tab
