@@ -3,7 +3,10 @@ set autoindent
 " Syntax highliting
 syntax on
 
-set textwidth=80
+" no auto wrap
+set wrap
+
+set textwidth=0 wrapmargin=0
 
 " vim tab
 set expandtab
