@@ -1,6 +1,10 @@
 set autoindent
 
-" Syntax highliting
+" spell check 
+set spell 
+set spelllang=en_us
+
+" Syntax highlighting
 syntax on
 
 " no auto wrap
